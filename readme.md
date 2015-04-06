@@ -1,18 +1,23 @@
-INFO
------
+# SORT #
+## Beschreibung ##
+SORT steht für Simulation and Observation of Road Traffic. Der Name des Programms ist auch seine Aufgabe. Das Programm kann diverse Verkehrssituationen mit verschiedenen Verkehrsmodellen Simuliere. Zusätzlich kann die Simulation Überwacht werden, was das Messen und anzeigen von Messwerten umfasst.
+
+Dieses Programm ist Teil einer Maturarbeit, welche von mir Anfang 2008 an der Kantonsschule Kreuzlingen zum Thema Verkehrsoptimierung verfasst wurde.
+
+Die in der Maturarbeit verwendete Programmversion ist 1.0. Bei Interesse ist die Arbeit auf Anfrage erhältlich.
+
+## Systemanforderungen ##
+Das Programm wurde auf folgenden Systemen getestet:
+  * Windows XP mit SP2
+  * Windows Vista mit/ohne SP1
+  * Ubuntu 8.10 mit Wine
+Es sollte jedoch kaum Probleme auf anderen Systemen geben. Falls doch wäre ich froh um eine Rückmeldung.
+
+## Info ##
 Autor: David Glenck
 E-mail: pascal.free@ihdg.ch
 
-Dieses Programm ist Teil einer Maturarbeit, welche
-von mir Anfang 2008 an der
-Kantonsschule Kreuzlingen zum Thema
-Verkehrsoptimierung verfasst wurde.
-Bei Interesse ist die Arbeit auf Anfrage erhältlich.
-Kontaktmöglichkeiten sind oben angegeben.
-
-
-LIZENZ
--------
+## Lizenz ##
 Copyright (C) 2008  David Glenck
 Dieses Programm ist freie Software. Sie können es unter den Bedingungen
 der GNU General Public License, wie von der Free Software Foundation
